@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GalibTest</string>
+    <string-array name="playerList">
+        <item>Messi</item>
+        <item>Ronaldo</item>
+        <item>Neymar</item>
+        <item>Griezman</item>
+        <item>Atorny</item>
+        <item>Pele</item>
+        <item>Kaka</item>
+        <item>Ramos</item>
+        <item>Messi</item>
+        <item>Atorny</item>
+        <item>Pele</item>
+        <item>Kaka</item>
+        <item>Ramos</item>
+        <item>Messi</item>
+    </string-array>
+</resources>
