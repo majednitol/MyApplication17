@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">GalibTest</string>
     <string-array name="playerList">
-        <item>Messi</item>
-        <item>Ronaldo</item>
-        <item>Neymar</item>
-        <item>Griezman</item>
-        <item>Atorny</item>
+        <item>Sakib</item>
+        <item>Tamim</item>
+        <item>Afsar Zazai</item>
+        <item>Asghar Afghan</item>
+        <item>Javed Ahmadi</item>
         <item>Pele</item>
-        <item>Kaka</item>
-        <item>Ramos</item>
-        <item>Messi</item>
-        <item>Atorny</item>
-        <item>Pele</item>
-        <item>Kaka</item>
-        <item>Ramos</item>
-        <item>Messi</item>
+        <item>Mohammad Nabi</item>
+        <item>Mujeeb Ur Rahman</item>
+        <item>Rahmat Shah</item>
+        <item>Rashid Khan</item>
+        <item>Wafadar Momand</item>
+        <item>Yamin Ahmadzai</item>
+        <item>Ihsanullah</item>
+        <item>	Zahir Khan</item>
     </string-array>
 </resources>
